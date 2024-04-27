@@ -1,4 +1,4 @@
-﻿namespace TestMindBox.Models.Spapes
+﻿namespace TestMindBox.Models.Shapes
 {
     public struct TringleSides
     {
